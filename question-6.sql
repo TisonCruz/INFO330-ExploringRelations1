@@ -4,4 +4,4 @@
  
 select substr(email, instr('@', email) + 1, length(email)) as Domain, city
 FROM persons
-where city = 'Seattle'
+where city = 'Seattle';
