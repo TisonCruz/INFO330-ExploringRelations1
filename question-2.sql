@@ -5,4 +5,4 @@ SELECT * FROM  persons;
 select first_name, last_name, age
 from persons
 where age < 30
-order by last_name asc
+order by last_name asc;
