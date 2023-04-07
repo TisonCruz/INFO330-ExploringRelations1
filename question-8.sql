@@ -7,4 +7,4 @@ where instr('Street', 'st');
 
 select address, age
 from persons
-where age = '18'
+where age = '18';
